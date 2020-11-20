@@ -4,7 +4,7 @@ An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
 
-[![Build Status](https://dev.azure.com/kleedevops/Parts%20Unlimited/_apis/build/status/KLeeBoy0393.calculator?branchName=master)](https://dev.azure.com/kleedevops/Parts%20Unlimited/_build/latest?definitionId=3&branchName=master)
+[img]https://dev.azure.com/kleedevops/Parts%20Unlimited/_apis/build/status/KLeeBoy0393.calculator?branchName=master[/img]
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
